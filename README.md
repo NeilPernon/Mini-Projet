@@ -96,7 +96,7 @@ Cloner le dépôt :
 git clone https://github.com/NeilPernon/Mini-Projet.git
 ```
 
-Se placer dans le dossier du projet :
+Se placer dans le dossier du projet (normalement pas nécessaire):
 
 ```bash
 cd mini-projet
